@@ -1,0 +1,30 @@
+# ROS build and development folders
+build/
+devel/
+
+# Logs and temporary files
+*.log
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Catkin generated setup files
+catkin_generated/
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.swp
+.DS_Store
